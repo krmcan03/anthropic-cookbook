@@ -1,3 +1,8 @@
+---
+
+[Visit Our Website](https://your-site.com)  
+![Our Logo](https://your-site.com/logo.png)
+
 # Anthropic Cookbook
 
 The Anthropic Cookbook provides code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects.
@@ -67,3 +72,7 @@ If you have ideas for new examples or guides, share them on the [issues page](ht
 
 - [Anthropic on AWS](https://github.com/aws-samples/anthropic-on-aws): Explore examples and solutions for using Claude on AWS infrastructure.
 - [AWS Samples](https://github.com/aws-samples/): A collection of code samples from AWS which can be adapted for use with Claude. Note that some samples may require modification to work optimally with Claude.
+
+---
+
+Thank you @aws-samples
